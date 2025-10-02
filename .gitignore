@@ -1,5 +1,4 @@
 *.csv
-*.csv
 *.pkl
 *.model
 .ipynb_checkpoints/
